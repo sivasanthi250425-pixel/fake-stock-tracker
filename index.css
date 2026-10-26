@@ -1,0 +1,17 @@
+#priceicon img{
+    width: 20px;
+    height: 20px;
+}
+#pricecontainer{
+    display: flex;
+    flex-direction: row;
+}
+#whole{
+    color: white;
+    width:800px;
+    height: 400px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    background-color: purple;background-image: linear-gradient(to right, #4b6cb7, #182848);
+    border-radius: 10px;
+}
